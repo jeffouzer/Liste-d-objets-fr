@@ -1838,79 +1838,92 @@
 		"abr": "elkmeat",
 		"price": 3,
 		"category": "Meat",
-		"defname": "Meat_Elk","traduction": "Coming soon"
+		"defname": "Meat_Elk",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "empgrenades",
 		"price": 525,
 		"category": "Grenades",
-		"defname": "Weapon_GrenadeEMP","traduction": "Coming soon"
+		"defname": "Weapon_GrenadeEMP",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "empshell",
 		"price": 92,
 		"category": "Mortar shells",
-		"defname": "Shell_EMP","traduction": "Coming soon"
+		"defname": "Shell_EMP",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "emu",
 		"price": 333,
 		"category": "Animal",
-		"defname": "Emu","traduction": "Coming soon"
+		"defname": "Emu",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "emuegg(fert.)",
 		"price": 30,
 		"category": "Eggs (fert.)",
-		"defname": "EggEmuFertilized","traduction": "Coming soon"
+		"defname": "EggEmuFertilized",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "endtable",
 		"price": 106,
 		"category": "Furniture",
-		"defname": "EndTable","traduction": "Coming soon"
+		"defname": "EndTable",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "erbot(disabled)",
 		"price": 42,
 		"category": "Robots",
-		"defname": "RPP_Bot_ER_I_disabled","traduction": "Coming soon"
+		"defname": "RPP_Bot_ER_I_disabled",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "erbot(disabled)",
 		"price": 42,
 		"category": "Robots",
-		"defname": "RPP_Bot_ER_II_disabled","traduction": "Coming soon"
+		"defname": "RPP_Bot_ER_II_disabled",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "erbot(disabled)",
 		"price": 42,
 		"category": "Robots",
-		"defname": "RPP_Bot_ER_III_disabled","traduction": "Coming soon"
+		"defname": "RPP_Bot_ER_III_disabled",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "erbot(disabled)",
 		"price": 42,
 		"category": "Robots",
-		"defname": "RPP_Bot_ER_IV_disabled","traduction": "Coming soon"
+		"defname": "RPP_Bot_ER_IV_disabled",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "erbot(disabled)",
 		"price": 42,
 		"category": "Robots",
-		"defname": "RPP_Bot_ER_V_disabled","traduction": "Coming soon"
+		"defname": "RPP_Bot_ER_V_disabled",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "er(i)basestation",
 		"price": 833,
 		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_I","traduction": "Coming soon"
+		"defname": "RPP_RechargeStation_ER_I",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "er(ii)basestation",
 		"price": 2058,
 		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_II","traduction": "Coming soon"
+		"defname": "RPP_RechargeStation_ER_II",
+		"traduction": "Coming soon"
 	},
 	{
 		"abr": "er(iii)basestation",
