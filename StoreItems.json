@@ -271,210 +271,210 @@
 		"price": 367,
 		"category": "Production",
 		"defname": "TableAnimalProsthetics",
-		"traduction": "Etabli de prothèse animale"
+		"traduction": "Atelier de prothésiste pour animaux"
 	},
 	{
 		"abr": "animalsleepingbox",
 		"price": 84,
 		"category": "Furniture",
 		"defname": "AnimalSleepingBox",
-		"traduction": "Coming soon"
+		"traduction": "Box pour petits animaux"
 	},
 	{
 		"abr": "ankarressapphire(dkblue)",
 		"price": 8333,
 		"category": "Saber crystals",
 		"defname": "PJ_AnkSapphire",
-		"traduction": "Coming soon"
+		"traduction": "Saphir Ankarres (bleu sombre)"
 	},
 	{
 		"abr": "antigrainwarhead",
 		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead",
-		"traduction": "Coming soon"
+		"traduction": "Ogive à antimatière"
 	},
 	{
 		"abr": "apples",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "Rawapple",
-		"traduction": "Coming soon"
+		"traduction": "Pommes"
 	},
 	{
 		"abr": "archerytarget",
 		"price": 198,
 		"category": "Recreation",
 		"defname": "ArcheryTarget",
-		"traduction": "Coming soon"
+		"traduction": "Cible pour archer"
 	},
 	{
 		"abr": "archotecharm",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechArm",
-		"traduction": "Coming soon"
+		"traduction": "Bras archotech"
 	},
 	{
 		"abr": "archotecheye",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechEye",
-		"traduction": "Coming soon"
+		"traduction": "Oeil archotech"
 	},
 	{
 		"abr": "archotechleg",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechLeg",
-		"traduction": "Coming soon"
+		"traduction": "Jambe archotech"
 	},
 	{
 		"abr": "arcticfox",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Arctic",
-		"traduction": "Coming soon"
+		"traduction": "Renard arctique"
 	},
 	{
 		"abr": "arcticwolf",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Arctic",
-		"traduction": "Coming soon"
+		"traduction": "Loup arctique"
 	},
 	{
 		"abr": "arm",
 		"price": 2167,
 		"category": "Natural",
 		"defname": "Arm",
-		"traduction": "Coming soon"
+		"traduction": "Bras"
 	},
 	{
 		"abr": "armchair",
 		"price": 450,
 		"category": "Furniture",
 		"defname": "Armchair",
-		"traduction": "Coming soon"
+		"traduction": "Fauteuil"
 	},
 	{
 		"abr": "artificialclavicle",
 		"price": 167,
 		"category": "Simple prostheses",
 		"defname": "ArtificialClavicle",
-		"traduction": "Coming soon"
+		"traduction": "Clavicule artificielle"
 	},
 	{
 		"abr": "artificialnose",
 		"price": 500,
 		"category": "Simple prostheses",
 		"defname": "ArtificialNose",
-		"traduction": "Coming soon"
+		"traduction": "Nez artificiel"
 	},
 	{
 		"abr": "artificialpelvis",
 		"price": 750,
 		"category": "Simple prostheses",
 		"defname": "ArtificialPelvis",
-		"traduction": "Coming soon"
+		"traduction": "Bassin artificiel"
 	},
 	{
 		"abr": "assaultrifle",
 		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle",
-		"traduction": "Coming soon"
+		"traduction": "Fusil d'assault"
 	},
 	{
 		"abr": "atatmainblastercannon",
 		"price": 5333,
 		"category": "Ranged weapons",
 		"defname": "PJ_ATAT_Blaster",
-		"traduction": "Coming soon"
+		"traduction": "Canon laser d'ATAT"
 	},
 	{
 		"abr": "atstmainblastercannon",
 		"price": 5333,
 		"category": "Ranged weapons",
 		"defname": "PJ_ATST_Blaster",
-		"traduction": "Coming soon"
+		"traduction": "Canon principal de l'ATST"
 	},
 	{
 		"abr": "autopistol",
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol",
-		"traduction": "Coming soon"
+		"traduction": "Pistolet automatique"
 	},
 	{
 		"abr": "auxiliaryai(agricultural)",
 		"price": 7500,
 		"category": "Synthetic organs",
 		"defname": "FarmerCore",
-		"traduction": "Coming soon"
+		"traduction": "IA (agriculture)"
 	},
 	{
 		"abr": "auxiliaryai(constructing)",
 		"price": 7500,
 		"category": "Synthetic organs",
 		"defname": "ConstructorCore",
-		"traduction": "Coming soon"
+		"traduction": "IA (construction)"
 	},
 	{
 		"abr": "auxiliaryai(diplomatic)",
 		"price": 7500,
 		"category": "Synthetic organs",
 		"defname": "DiplomatCore",
-		"traduction": "Coming soon"
+		"traduction": "IA (diplomatie)"
 	},
 	{
 		"abr": "auxiliaryai(medical)",
 		"price": 7500,
 		"category": "Synthetic organs",
 		"defname": "DoctorCore",
-		"traduction": "Coming soon"
+		"traduction": "IA (médecine)"
 	},
 	{
 		"abr": "auxiliaryai(mining)",
 		"price": 7500,
 		"category": "Synthetic organs",
 		"defname": "MinerCore",
-		"traduction": "Coming soon"
+		"traduction": "IA (minage)"
 	},
 	{
 		"abr": "bamboo",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "Bamboo",
-		"traduction": "Coming soon"
+		"traduction": "Bambou"
 	},
 	{
 		"abr": "banana",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "Rawbanana",
-		"traduction": "Coming soon"
+		"traduction": "Banane"
 	},
 	{
 		"abr": "bantha",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Bantha",
-		"traduction": "Coming soon"
+		"traduction": "Bantha"
 	},
 	{
 		"abr": "banthahide",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "bantha_hide",
-		"traduction": "Coming soon"
+		"traduction": "Fourrure de bantha"
 	},
 	{
 		"abr": "banthahorn",
 		"price": 250,
 		"category": "Items",
 		"defname": "BanthaHorn",
-		"traduction": "Coming soon"
+		"traduction": "Corne de bantha"
 	},
 	{
 		"abr": "banthameat",
@@ -488,1393 +488,1393 @@
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolBantha",
-		"traduction": "Coming soon"
+		"traduction": "Laine de bantha"
 	},
 	{
 		"abr": "baraboreingot(orange)",
 		"price": 5000,
 		"category": "Saber crystals",
 		"defname": "PJ_BarabIngot",
-		"traduction": "Coming soon"
+		"traduction": "Lingot de minerai de barab (orange)"
 	},
 	{
 		"abr": "barky'sclanarmor",
 		"price": 10250,
 		"category": "Apparel",
 		"defname": "PJ_BarkMandoArmor",
-		"traduction": "Coming soon"
+		"traduction": "Armure du clan Barky"
 	},
 	{
 		"abr": "barley",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawBarley",
-		"traduction": "Coming soon"
+		"traduction": "Orge"
 	},
 	{
 		"abr": "basicmanagerdesk",
 		"price": 262,
 		"category": "Production",
 		"defname": "FM_BasicManagerStation",
-		"traduction": "Coming soon"
+		"traduction": "Bureau de gestionnaire basique"
 	},
 	{
 		"abr": "basicprostheticsworkbench",
 		"price": 383,
 		"category": "Production",
 		"defname": "TableBasicProsthetic",
-		"traduction": "Coming soon"
+		"traduction": "Atelier de prothésiste (basique)"
 	},
 	{
 		"abr": "basicvibrocell",
 		"price": 3000,
 		"category": "Vibroblade motors",
 		"defname": "PJ_VibroMotorNorm",
-		"traduction": "Coming soon"
+		"traduction": "Vibro-céllule basique"
 	},
 	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
 		"defname": "Battery",
-		"traduction": "Coming soon"
+		"traduction": "Batterie"
 	},
 	{
 		"abr": "bean",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "Rawbean",
-		"traduction": "Coming soon"
+		"traduction": "Haricot"
 	},
 	{
 		"abr": "bearmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Bear_Grizzly",
-		"traduction": "Coming soon"
+		"traduction": "Viande d'ours"
 	},
 	{
 		"abr": "bearskin",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Bear",
-		"traduction": "Coming soon"
+		"traduction": "Cuir d'ours"
 	},
 	{
 		"abr": "bed",
 		"price": 155,
 		"category": "Furniture",
 		"defname": "Bed",
-		"traduction": "Coming soon"
+		"traduction": "Lit"
 	},
 	{
 		"abr": "bedroll",
 		"price": 137,
 		"category": "Furniture",
 		"defname": "Bedroll",
-		"traduction": "Coming soon"
+		"traduction": "Sac de couchage"
 	},
 	{
 		"abr": "beef",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cow",
-		"traduction": "Coming soon"
+		"traduction": "Boeuf"
 	},
 	{
 		"abr": "beer",
 		"price": 20,
 		"category": "Drugs",
 		"defname": "Beer",
-		"traduction": "Coming soon"
+		"traduction": "Bière"
 	},
 	{
 		"abr": "berries",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "RawBerries",
-		"traduction": "Coming soon"
+		"traduction": "Baies"
 	},
 	{
 		"abr": "billiardstable",
 		"price": 600,
 		"category": "Furniture",
 		"defname": "BilliardsTable",
-		"traduction": "Coming soon"
+		"traduction": "Table de billard"
 	},
 	{
 		"abr": "biofuel",
 		"price": 7,
 		"category": "Manufactured",
 		"defname": "VG_Biofuel",
-		"traduction": "Coming soon"
+		"traduction": "Biocarburant"
 	},
 	{
 		"abr": "bionicanimalarm",
 		"price": 892,
 		"category": "Animal Body Part",
 		"defname": "BionicArmAnimal",
-		"traduction": "Coming soon"
+		"traduction": "Bras bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalbrainstimulator",
 		"price": 1508,
 		"category": "Animal Body Part",
 		"defname": "AnimalBrainStimulator",
-		"traduction": "Coming soon"
+		"traduction": "Stimulateur cérébral bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalearimplant",
 		"price": 867,
 		"category": "Animal Body Part",
 		"defname": "EarAnimalBionic",
-		"traduction": "Coming soon"
+		"traduction": "Implant auditif bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimaleye",
 		"price": 867,
 		"category": "Animal Body Part",
 		"defname": "BionicEyeAnimal",
-		"traduction": "Coming soon"
+		"traduction": "Oeil bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalheart",
 		"price": 667,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalHeart",
-		"traduction": "Coming soon"
+		"traduction": "Coeur bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimaljaw",
 		"price": 867,
 		"category": "Animal Body Part",
 		"defname": "JawAnimalBionic",
-		"traduction": "Coming soon"
+		"traduction": "Mâchoire bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalkidney",
 		"price": 483,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalKidney",
-		"traduction": "Coming soon"
+		"traduction": "Rein bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalleg",
 		"price": 892,
 		"category": "Animal Body Part",
 		"defname": "BionicLegAnimal",
-		"traduction": "Coming soon"
+		"traduction": "Jambe bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalliver",
 		"price": 483,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalLiver",
-		"traduction": "Coming soon"
+		"traduction": "Foie bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimallung",
 		"price": 483,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalLung",
-		"traduction": "Coming soon"
+		"traduction": "Poumon bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalspine",
 		"price": 1050,
 		"category": "Animal Body Part",
 		"defname": "SpineAnimalBionic",
-		"traduction": "Coming soon"
+		"traduction": "Colonne vertébrale bionique pour animaux"
 	},
 	{
 		"abr": "bionicanimalstomach",
 		"price": 492,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalStomach",
-		"traduction": "Coming soon"
+		"traduction": "Estomac bionique pour animaux"
 	},
 	{
 		"abr": "bionicarm",
 		"price": 2917,
 		"category": "Bionics",
 		"defname": "BionicArm",
-		"traduction": "Coming soon"
+		"traduction": "Bras bionique"
 	},
 	{
 		"abr": "bionicearimplant",
 		"price": 1333,
 		"category": "Bionics",
 		"defname": "BionicEar",
-		"traduction": "Coming soon"
+		"traduction": "Implant auditif bionique"
 	},
 	{
 		"abr": "bioniceye",
 		"price": 2500,
 		"category": "Bionics",
 		"defname": "BionicEye",
-		"traduction": "Coming soon"
+		"traduction": "Oeil bionique"
 	},
 	{
 		"abr": "bionicfoot",
 		"price": 1250,
 		"category": "Bionics",
 		"defname": "BionicFoot",
-		"traduction": "Coming soon"
+		"traduction": "Pied bionique"
 	},
 	{
 		"abr": "bionichand",
 		"price": 1667,
 		"category": "Bionics",
 		"defname": "BionicHand",
-		"traduction": "Coming soon"
+		"traduction": "Main bionique"
 	},
 	{
 		"abr": "bionicjawimplant",
 		"price": 1667,
 		"category": "Bionics",
 		"defname": "BionicJaw",
-		"traduction": "Coming soon"
+		"traduction": "Mâchoire bionique"
 	},
 	{
 		"abr": "bionicleg",
 		"price": 2917,
 		"category": "Bionics",
 		"defname": "BionicLeg",
-		"traduction": "Coming soon"
+		"traduction": "Jambe bionique"
 	},
 	{
 		"abr": "bionicspine",
 		"price": 2917,
 		"category": "Bionics",
 		"defname": "BionicSpine",
-		"traduction": "Coming soon"
+		"traduction": "Colonne vertébrale bionique"
 	},
 	{
 		"abr": "bionicsworkbench",
 		"price": 4058,
 		"category": "Production",
 		"defname": "TableBionics",
-		"traduction": "Coming soon"
+		"traduction": "Atelier de prothésiste (bionique)"
 	},
 	{
 		"abr": "birdmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cassowary",
-		"traduction": "Coming soon"
+		"traduction": "Viande d'oiseau"
 	},
 	{
 		"abr": "birdskin",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Bird",
-		"traduction": "Coming soon"
+		"traduction": "Cuir d'oiseau"
 	},
 	{
 		"abr": "bluemilk",
 		"price": 6,
 		"category": "Animal products",
 		"defname": "BlueMilk",
-		"traduction": "Coming soon"
+		"traduction": "Lait bleu"
 	},
 	{
 		"abr": "blueberry",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "Rawblueberry",
-		"traduction": "Coming soon"
+		"traduction": "Myrtille"
 	},
 	{
 		"abr": "blueblade",
 		"price": 133,
 		"category": "Animal",
 		"defname": "Blueblade",
-		"traduction": "Coming soon"
+		"traduction": "Blueblade (poisson)"
 	},
 	{
 		"abr": "bluebladefilet",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Blueblade",
-		"traduction": "Coming soon"
+		"traduction": "Filet de blueblade (poisson)"
 	},
 	{
 		"abr": "bluefur",
 		"price": 4,
 		"category": "Leathers",
 		"defname": "Leather_Bluefur",
-		"traduction": "Coming soon"
+		"traduction": "Fourrure bleue"
 	},
 	{
 		"abr": "bolt-actionrifle",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle",
-		"traduction": "Coming soon"
+		"traduction": "Carabine de survie"
 	},
 	{
 		"abr": "boomalope",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Boomalope",
-		"traduction": "Coming soon"
+		"traduction": "Boomalope"
 	},
 	{
 		"abr": "boomalopemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Boomalope",
-		"traduction": "Coming soon"
+		"traduction": "Viande de boomalope"
 	},
 	{
 		"abr": "boomrat",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Boomrat",
-		"traduction": "Coming soon"
+		"traduction": "Rataboum"
 	},
 	{
 		"abr": "boomratmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Boomrat",
-		"traduction": "Coming soon"
+		"traduction": "Viande de rataboum"
 	},
 	{
 		"abr": "bowlofstew",
 		"price": 42,
 		"category": "Lavish Meals",
 		"defname": "bowlstew",
-		"traduction": "Coming soon"
+		"traduction": "Bol de ragoût"
 	},
 	{
 		"abr": "bowlerhat",
 		"price": 77,
 		"category": "Headgear",
 		"defname": "Apparel_BowlerHat",
-		"traduction": "Coming soon"
+		"traduction": "Chapeau melon"
 	},
 	{
 		"abr": "brainstimulator",
 		"price": 1667,
 		"category": "Surrogate organs",
 		"defname": "BrainStimulator",
-		"traduction": "Coming soon"
+		"traduction": "Stimulateur cérébral"
 	},
 	{
 		"abr": "brewery",
 		"price": 350,
 		"category": "Production",
 		"defname": "Brewery",
-		"traduction": "Coming soon"
+		"traduction": "Etabli de brassage"
 	},
 	{
 		"abr": "builderbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_I_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot constructeur I (désactivé)"
 	},
 	{
 		"abr": "builderbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_II_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot constructeur II (désactivé)"
 	},
 	{
 		"abr": "builderbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_III_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot constructeur III (désactivé)"
 	},
 	{
 		"abr": "builderbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_IV_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot constructeur IV (désactivé)"
 	},
 	{
 		"abr": "builderbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_V_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot constructeur V (désactivé)"
 	},
 	{
 		"abr": "builder(i)basestation",
 		"price": 833,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_I",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot constructeur I"
 	},
 	{
 		"abr": "builder(ii)basestation",
 		"price": 2058,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_II",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot constructeur II"
 	},
 	{
 		"abr": "builder(iii)basestation",
 		"price": 4533,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_III",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot constructeur III"
 	},
 	{
 		"abr": "builder(iv)basestation",
 		"price": 9417,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_IV",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot constructeur IV"
 	},
 	{
 		"abr": "builder(v)basestation",
 		"price": 19092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_V",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot constructeur V"
 	},
 	{
 		"abr": "butchertable",
 		"price": 262,
 		"category": "Production",
 		"defname": "TableButcher",
-		"traduction": "Coming soon"
+		"traduction": "Etabli de boucher"
 	},
 	{
 		"abr": "button-downshirt",
 		"price": 166,
 		"category": "Apparel",
 		"defname": "Apparel_CollarShirt",
-		"traduction": "Coming soon"
+		"traduction": "Chemise"
 	},
 	{
 		"abr": "cactusfruit",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawCactusFruit",
-		"traduction": "Coming soon"
+		"traduction": "Fruit de cactus"
 	},
 	{
 		"abr": "camelhair",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolCamel",
-		"traduction": "Coming soon"
+		"traduction": "Poil de chameau"
 	},
 	{
 		"abr": "camelhide",
 		"price": 4,
 		"category": "Leathers",
 		"defname": "Leather_Camel",
-		"traduction": "Coming soon"
+		"traduction": "Cuir de chameau"
 	},
 	{
 		"abr": "camojacket",
 		"price": 296,
 		"category": "Apparel",
 		"defname": "PJ_Reb_CamoJacket",
-		"traduction": "Coming soon"
+		"traduction": "Veste camouflage"
 	},
 	{
 		"abr": "capybara",
 		"price": 250,
 		"category": "Animal",
 		"defname": "Capybara",
-		"traduction": "Coming soon"
+		"traduction": "Capybara"
 	},
 	{
 		"abr": "capybarameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Capybara",
-		"traduction": "Coming soon"
+		"traduction": "Viande ce capybara"
 	},
 	{
 		"abr": "caribou",
 		"price": 500,
 		"category": "Animal",
 		"defname": "Caribou",
-		"traduction": "Coming soon"
+		"traduction": "Caribou"
 	},
 	{
 		"abr": "cariboumeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Caribou",
-		"traduction": "Coming soon"
+		"traduction": "Viande de caribou"
 	},
 	{
 		"abr": "cassowary",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Cassowary",
-		"traduction": "Coming soon"
+		"traduction": "Casoar"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
 		"price": 32,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized",
-		"traduction": "Coming soon"
+		"traduction": "Oeuf de casoar (fécondé)"
 	},
 	{
 		"abr": "cat",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Cat",
-		"traduction": "Coming soon"
+		"traduction": "Chat"
 	},
 	{
 		"abr": "catmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cat",
-		"traduction": "Coming soon"
+		"traduction": "Viande de chat"
 	},
 	{
 		"abr": "ceilinglamp",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp",
-		"traduction": "Coming soon"
+		"traduction": "Lampe de plafond"
 	},
 	{
 		"abr": "ceilinglamp(blue)",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Blue",
-		"traduction": "Coming soon"
+		"traduction": "Lampe de plafond (bleue)"
 	},
 	{
 		"abr": "ceilinglamp(green)",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Green",
-		"traduction": "Coming soon"
+		"traduction": "Lampe de plafond (verte)"
 	},
 	{
 		"abr": "ceilinglamp(orange)",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Orange",
-		"traduction": "Coming soon"
+		"traduction": "Lampe de plafond (orange)"
 	},
 	{
 		"abr": "ceilinglamp(red)",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Red",
-		"traduction": "Coming soon"
+		"traduction": "Lampe de plafond (rouge)"
 	},
 	{
 		"abr": "ceilinglamp(violet)",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Violet",
-		"traduction": "Coming soon"
+		"traduction": "Lampe de plafond (violet)"
 	},
 	{
 		"abr": "ceilinglamp(yellow)",
 		"price": 49,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Yellow",
-		"traduction": "Coming soon"
+		"traduction": "Lampe de plafond (jaune)"
 	},
 	{
 		"abr": "chainshotgun",
 		"price": 675,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChainShotgun",
-		"traduction": "Coming soon"
+		"traduction": "Fusil à pompe automatique"
 	},
 	{
 		"abr": "chargelance",
 		"price": 2258,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance",
-		"traduction": "Coming soon"
+		"traduction": "Lance-charges"
 	},
 	{
 		"abr": "chargerifle",
 		"price": 1683,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle",
-		"traduction": "Coming soon"
+		"traduction": "Fusil à impulsion"
 	},
 	{
 		"abr": "chemfuel",
 		"price": 4,
 		"category": "Manufactured",
 		"defname": "Chemfuel",
-		"traduction": "Coming soon"
+		"traduction": "Chemfuel"
 	},
 	{
 		"abr": "cherries",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "RawCherry",
-		"traduction": "Coming soon"
+		"traduction": "Cerises"
 	},
 	{
 		"abr": "chesstable",
 		"price": 281,
 		"category": "Furniture",
 		"defname": "ChessTable",
-		"traduction": "Coming soon"
+		"traduction": "Table d'échec"
 	},
 	{
 		"abr": "chicken",
 		"price": 83,
 		"category": "Animal",
 		"defname": "Chicken",
-		"traduction": "Coming soon"
+		"traduction": "Poulet"
 	},
 	{
 		"abr": "chickenegg(fert.)",
 		"price": 12,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized",
-		"traduction": "Coming soon"
+		"traduction": "Oeuf de poule (fécondé)"
 	},
 	{
 		"abr": "chickenegg(unfert.)",
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized",
-		"traduction": "Coming soon"
+		"traduction": "Oeuf de poule (non fécondé)"
 	},
 	{
 		"abr": "chickenmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Chicken",
-		"traduction": "Coming soon"
+		"traduction": "Viande de poulet"
 	},
 	{
 		"abr": "chinchilla",
 		"price": 250,
 		"category": "Animal",
 		"defname": "Chinchilla",
-		"traduction": "Coming soon"
+		"traduction": "Chinchilla"
 	},
 	{
 		"abr": "chinchillafur",
 		"price": 11,
 		"category": "Leathers",
 		"defname": "Leather_Chinchilla",
-		"traduction": "Coming soon"
+		"traduction": "Fourrure de chinchilla"
 	},
 	{
 		"abr": "chinchillameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Chinchilla",
-		"traduction": "Coming soon"
+		"traduction": "Viande de chinchilla"
 	},
 	{
 		"abr": "chocolate",
 		"price": 5,
 		"category": "Foods",
 		"defname": "Chocolate",
-		"traduction": "Coming soon"
+		"traduction": "Chocolat"
 	},
 	{
 		"abr": "cleanerbasestation",
 		"price": 833,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot nettoyeur"
 	},
 	{
 		"abr": "cleaner(ii)basestation",
 		"price": 2058,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_II",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot nettoyeur II"
 	},
 	{
 		"abr": "cleaner(iii)basestation",
 		"price": 4533,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_III",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot nettoyeur III"
 	},
 	{
 		"abr": "cleaner(iv)basestation",
 		"price": 9417,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_IV",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot nettoyeur IV"
 	},
 	{
 		"abr": "cleaner(v)basestation",
 		"price": 19092,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_V",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot nettoyeur V"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_II_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot nettoyeur II (désactivé)"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_III_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot nettoyeur III (désactivé)"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_IV_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot nettoyeur IV (désactivé)"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_V_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot nettoyeur V (désactivé)"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot nettoyeur (désactivé)"
 	},
 	{
 		"abr": "cloth",
 		"price": 2,
 		"category": "Textiles",
 		"defname": "Cloth",
-		"traduction": "Coming soon"
+		"traduction": "Tissu"
 	},
 	{
 		"abr": "cloudberry",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "Rawcloudberry",
-		"traduction": "Coming soon"
+		"traduction": "Plaquebière"
 	},
 	{
 		"abr": "club",
 		"price": 141,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Club",
-		"traduction": "Coming soon"
+		"traduction": "massue"
 	},
 	{
 		"abr": "cobra",
 		"price": 250,
 		"category": "Animal",
 		"defname": "Cobra",
-		"traduction": "Coming soon"
+		"traduction": "Cobra"
 	},
 	{
 		"abr": "cobraegg(fert.)",
 		"price": 67,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized",
-		"traduction": "Coming soon"
+		"traduction": "Oeuf de cobra (fécondé)"
 	},
 	{
 		"abr": "cobraflesh",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cobra",
-		"traduction": "Coming soon"
+		"traduction": "Viande de cobra"
 	},
 	{
 		"abr": "cochlearimplant",
 		"price": 833,
 		"category": "Simple prostheses",
 		"defname": "CochlearImplant",
-		"traduction": "Coming soon"
+		"traduction": "Prothèse auditive"
 	},
 	{
 		"abr": "coconut",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "RawCoconut",
-		"traduction": "Coming soon"
+		"traduction": "Noix de coco"
 	},
 	{
 		"abr": "coffeebeans",
 		"price": 7,
 		"category": "Plant matter",
 		"defname": "CPD_CoffeeBeans",
-		"traduction": "Coming soon"
+		"traduction": "Graines de café"
 	},
 	{
 		"abr": "colorcrystal(azure)",
 		"price": 150,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalAzure",
-		"traduction": "Coming soon"
+		"traduction": "Cristal de couleur (azur)"
 	},
 	{
 		"abr": "colorcrystal(blue)",
 		"price": 150,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalBlue",
-		"traduction": "Coming soon"
+		"traduction": "Cristal de couleur (bleu)"
 	},
 	{
 		"abr": "colorcrystal(cyan)",
 		"price": 150,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalCyan",
-		"traduction": "Coming soon"
+		"traduction": "Cristal de couleur (azur clair)"
 	},
 	{
 		"abr": "colorcrystal(green)",
 		"price": 150,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystal",
-		"traduction": "Coming soon"
+		"traduction": "Cristal de couleur (vert)"
 	},
 	{
 		"abr": "colorcrystal(purple)",
 		"price": 150,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalPurple",
-		"traduction": "Coming soon"
+		"traduction": "Cristal de couleur (violet)"
 	},
 	{
 		"abr": "colorcrystal(yellow)",
 		"price": 150,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalYellow",
-		"traduction": "Coming soon"
+		"traduction": "Cristal de couleur (jaune)"
 	},
 	{
 		"abr": "component",
 		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial",
-		"traduction": "Coming soon"
+		"traduction": "Composant"
 	},
 	{
 		"abr": "compositearmor",
 		"price": 6750,
 		"category": "Apparel",
 		"defname": "PJ_CompArmor",
-		"traduction": "Coming soon"
+		"traduction": "Armure composite"
 	},
 	{
 		"abr": "corn",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawCorn",
-		"traduction": "Coming soon"
+		"traduction": "Maïs"
 	},
 	{
 		"abr": "cougar",
 		"price": 667,
 		"category": "Animal",
 		"defname": "Cougar",
-		"traduction": "Coming soon"
+		"traduction": "Cougar"
 	},
 	{
 		"abr": "cougarmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cougar",
-		"traduction": "Coming soon"
+		"traduction": "Viande de cougar"
 	},
 	{
 		"abr": "cow",
 		"price": 500,
 		"category": "Animal",
 		"defname": "Cow",
-		"traduction": "Coming soon"
+		"traduction": "Vache"
 	},
 	{
 		"abr": "cowboyhat",
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat",
-		"traduction": "Coming soon"
+		"traduction": "Chapeau de cowboy"
 	},
 	{
 		"abr": "crafterbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_I_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot artisan (désactivé)"
 	},
 	{
 		"abr": "crafterbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_II_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot artisan II (désactivé)"
 	},
 	{
 		"abr": "crafterbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_III_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot artisan III (désactivé)"
 	},
 	{
 		"abr": "crafterbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_IV_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot artisan IV (désactivé)"
 	},
 	{
 		"abr": "crafterbot(disabled)",
 		"price": 42,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_V_disabled",
-		"traduction": "Coming soon"
+		"traduction": "Robot artisan V (désactivé)"
 	},
 	{
 		"abr": "crafter(i)basestation",
 		"price": 833,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_I",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot artisan I"
 	},
 	{
 		"abr": "crafter(ii)basestation",
 		"price": 2058,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_II",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot artisan II"
 	},
 	{
 		"abr": "crafter(iii)basestation",
 		"price": 4533,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_III",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot artisan III"
 	},
 	{
 		"abr": "crafter(iv)basestation",
 		"price": 9417,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_IV",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot artisan IV"
 	},
 	{
 		"abr": "crafter(v)basestation",
 		"price": 19092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_V",
-		"traduction": "Coming soon"
+		"traduction": "Station de robot artisan V"
 	},
 	{
 		"abr": "cryovibrocell",
 		"price": 5000,
 		"category": "Vibroblade motors",
 		"defname": "PJ_CryoCell",
-		"traduction": "Coming soon"
+		"traduction": "Vibro-céllule cryogénique"
 	},
 	{
 		"abr": "customhood",
 		"price": 417,
 		"category": "Headgear",
 		"defname": "PJ_CustomHood",
-		"traduction": "Coming soon"
+		"traduction": "Capuche personnalisée"
 	},
 	{
 		"abr": "customjedirobe",
 		"price": 467,
 		"category": "Apparel",
 		"defname": "PJ_JFac_Robe",
-		"traduction": "Coming soon"
+		"traduction": "Robe de jedi personnalisée"
 	},
 	{
 		"abr": "customsithrobes",
 		"price": 467,
 		"category": "Apparel",
 		"defname": "PJ_SithFac_Robe",
-		"traduction": "Coming soon"
+		"traduction": "Robe de sith personnalisée"
 	},
 	{
 		"abr": "damindcrystal(ltazure)",
 		"price": 5000,
 		"category": "Saber crystals",
 		"defname": "PJ_DamindCrystal",
-		"traduction": "Coming soon"
+		"traduction": "Cristal damind (azur clair)"
 	},
 	{
 		"abr": "date",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "Rawdate",
-		"traduction": "Coming soon"
+		"traduction": "Datte"
 	},
 	{
 		"abr": "dc-15blasterrifle",
 		"price": 1725,
 		"category": "Ranged weapons",
 		"defname": "PJ_DC15Rifle",
-		"traduction": "Coming soon"
+		"traduction": "Fusil blaster DC-15A"
 	},
 	{
 		"abr": "deathtrooperarmor",
 		"price": 7083,
 		"category": "Apparel",
 		"defname": "PJ_TroopArmorDT",
-		"traduction": "Coming soon"
+		"traduction": "Armure de deathtrooper"
 	},
 	{
 		"abr": "deathtrooperarmor(cmd)",
 		"price": 7250,
 		"category": "Apparel",
 		"defname": "PJ_TroopArmorDTC",
-		"traduction": "Coming soon"
+		"traduction": "Armure de deathtrooper (cmd)"
 	},
 	{
 		"abr": "deepdrill",
 		"price": 908,
 		"category": "Production",
 		"defname": "DeepDrill",
-		"traduction": "Coming soon"
+		"traduction": "Foreuse en profondeur"
 	},
 	{
 		"abr": "deer",
 		"price": 417,
 		"category": "Animal",
 		"defname": "Deer",
-		"traduction": "Coming soon"
+		"traduction": "Cerf"
 	},
 	{
 		"abr": "denture",
 		"price": 67,
 		"category": "Basic prostheses",
 		"defname": "denture",
-		"traduction": "Coming soon"
+		"traduction": "Dentier"
 	},
 	{
 		"abr": "devilstrand",
 		"price": 9,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth",
-		"traduction": "Coming soon"
+		"traduction": "Diablétoffe"
 	},
 	{
 		"abr": "dewback",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Dewback",
-		"traduction": "Coming soon"
+		"traduction": "Dewback"
 	},
 	{
 		"abr": "dewbackegg(fert.)",
 		"price": 67,
 		"category": "Eggs (fert.)",
 		"defname": "EggDewbackFertilized",
-		"traduction": "Coming soon"
+		"traduction": "Oeuf de dewback (fécondé)"
 	},
 	{
 		"abr": "dewbackhide",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "dewback_hide",
-		"traduction": "Coming soon"
+		"traduction": "Cuir de dewback"
 	},
 	{
 		"abr": "dewbackmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Dewback",
-		"traduction": "Coming soon"
+		"traduction": "Viande de dewback"
 	},
 	{
 		"abr": "dh-17blasterpistol",
 		"price": 3667,
 		"category": "Ranged weapons",
 		"defname": "PJ_DH17Blaster",
-		"traduction": "Coming soon"
+		"traduction": "Blaster DH-17"
 	},
 	{
 		"abr": "diningchair",
 		"price": 198,
 		"category": "Furniture",
 		"defname": "DiningChair",
-		"traduction": "Coming soon"
+		"traduction": "Chaise"
 	},
 	{
 		"abr": "dl-44blaster",
 		"price": 1725,
 		"category": "Ranged weapons",
 		"defname": "PJ_DL44blaster",
-		"traduction": "Coming soon"
+		"traduction": "Blaster dl-44"
 	},
 	{
 		"abr": "dlt-19heavyblasterrifle",
 		"price": 1725,
 		"category": "Ranged weapons",
 		"defname": "PJ_DLT19Rifle",
-		"traduction": "Coming soon"
+		"traduction": "Fusil blaster lourd DLT-19"
 	},
 	{
 		"abr": "dogleather",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Dog",
-		"traduction": "Coming soon"
+		"traduction": "Fourrure de chien"
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket",
-		"traduction": "Coming soon"
+		"traduction": "Lance-roquettes apocalyptique"
 	},
 	{
 		"abr": "doublebed",
 		"price": 292,
 		"category": "Furniture",
 		"defname": "DoubleBed",
-		"traduction": "Coming soon"
+		"traduction": "Lit double"
 	},
 	{
 		"abr": "doublebedroll",
 		"price": 290,
 		"category": "Furniture",
 		"defname": "BedrollDouble",
-		"traduction": "Coming soon"
+		"traduction": "Sac de couchage double"
 	},
 	{
 		"abr": "doublelightsaber(inquisitor)",
 		"price": 5000,
 		"category": "Melee weapons",
 		"defname": "SWSaber_Inquis",
-		"traduction": "Coming soon"
+		"traduction": "Sabre laser double (inquisitor)"
 	},
 	{
 		"abr": "dragitecrystal(ltpurple)",
 		"price": 5000,
 		"category": "Saber crystals",
 		"defname": "PJ_DragiteCrystal",
-		"traduction": "Coming soon"
+		"traduction": "Cristal dragite (violet clair)"
 	},
 	{
 		"abr": "dresser",
 		"price": 179,
 		"category": "Furniture",
 		"defname": "Dresser",
-		"traduction": "Coming soon"
+		"traduction": "Commode"
 	},
 	{
 		"abr": "dromedary",
 		"price": 500,
 		"category": "Animal",
 		"defname": "Dromedary",
-		"traduction": "Coming soon"
+		"traduction": "Dromadaire"
 	},
 	{
 		"abr": "dromedarymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Dromedary",
-		"traduction": "Coming soon"
+		"traduction": "Viande de dromadaire"
 	},
 	{
 		"abr": "druglab",
 		"price": 742,
 		"category": "Production",
 		"defname": "DrugLab",
-		"traduction": "Coming soon"
+		"traduction": "Laboratoire chimique"
 	},
 	{
 		"abr": "druggedribreplacement",
 		"price": 1333,
 		"category": "Bionics",
 		"defname": "DruggedRib",
-		"traduction": "Coming soon"
+		"traduction": "Côte (drogue)"
 	},
 	{
 		"abr": "dualrefrigerator",
 		"price": 186,
 		"category": "Furniture",
 		"defname": "RimFridge_Refrigerator",
-		"traduction": "Coming soon"
+		"traduction": "réfrigérateur double"
 	},
 	{
 		"abr": "duster",
 		"price": 327,
 		"category": "Apparel",
 		"defname": "Apparel_Duster",
-		"traduction": "Coming soon"
+		"traduction": "Manteau"
 	},
 	{
 		"abr": "dxr-6blastercarbine",
 		"price": 1725,
 		"category": "Ranged weapons",
 		"defname": "PJ_DXR6Carb",
-		"traduction": "Coming soon"
+		"traduction": "Carabine blaster DXR-6"
 	},
 	{
 		"abr": "e-11blasterrifle",
 		"price": 3667,
 		"category": "Ranged weapons",
 		"defname": "PJ_E11Blaster",
-		"traduction": "Coming soon"
+		"traduction": "Fusil blaster E-11"
 	},
 	{
 		"abr": "ear",
 		"price": 833,
 		"category": "Natural",
 		"defname": "Ear",
-		"traduction": "Coming soon"
+		"traduction": "Oreille"
 	},
 	{
 		"abr": "earbandage",
 		"price": 83,
 		"category": "Basic prostheses",
 		"defname": "EarBandage",
-		"traduction": "Coming soon"
+		"traduction": "Bandeau pour oeil"
 	},
 	{
 		"abr": "echanivibrosword",
 		"price": 5000,
 		"category": "Melee weapons",
 		"defname": "PJ_Vibrosword",
-		"traduction": "Coming soon"
+		"traduction": "Vibrolame (Echani)"
 	},
 	{
 		"abr": "ectoplasm",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_PJ_ForceGhostR",
-		"traduction": "Coming soon"
+		"traduction": "Ectoplasme"
 	},
 	{
 		"abr": "ee-3blastercarbine",
 		"price": 1725,
 		"category": "Ranged weapons",
 		"defname": "PJ_EE3Carbine",
-		"traduction": "Coming soon"
+		"traduction": "Carabine blaster EE-3"
 	},
 	{
 		"abr": "electricglassworks",
 		"price": 255,
 		"category": "Production",
 		"defname": "GlassworkTable",
-		"traduction": "Coming soon"
+		"traduction": "Etabli pour verre"
 	},
 	{
 		"abr": "electricsmelter",
 		"price": 667,
 		"category": "Production",
 		"defname": "ElectricSmelter",
-		"traduction": "Coming soon"
+		"traduction": "Fonderie électrique"
 	},
 	{
 		"abr": "electricsmithy",
 		"price": 492,
 		"category": "Production",
 		"defname": "ElectricSmithy",
-		"traduction": "Coming soon"
+		"traduction": "Etabli de forgeron électrique"
 	},
 	{
 		"abr": "electricstove",
 		"price": 375,
 		"category": "Production",
 		"defname": "ElectricStove",
-		"traduction": "Coming soon"
+		"traduction": "Cuisinière électrique"
 	},
 	{
 		"abr": "electrictailorbench",
 		"price": 533,
 		"category": "Production",
 		"defname": "ElectricTailoringBench",
-		"traduction": "Coming soon"
+		"traduction": "Etabli de tissage électrique"
 	},
 	{
 		"abr": "elephant",
 		"price": 1000,
 		"category": "Animal",
 		"defname": "Elephant",
-		"traduction": "Coming soon"
+		"traduction": "Eléphant"
 	},
 	{
 		"abr": "elephantleather",
 		"price": 5,
 		"category": "Leathers",
 		"defname": "Leather_Elephant",
-		"traduction": "Coming soon"
+		"traduction": "Cuir d'éléphant"
 	},
 	{
 		"abr": "elephantmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Elephant",
-		"traduction": "Coming soon"
+		"traduction": "Viande d'éléphant"
 	},
 	{
 		"abr": "elephanttusk",
 		"price": 133,
 		"category": "Items",
 		"defname": "ElephantTusk",
-		"traduction": "Coming soon"
+		"traduction": "Défense d'éléphant"
 	},
 	{
 		"abr": "elk",
 		"price": 500,
 		"category": "Animal",
 		"defname": "Elk",
-		"traduction": "Coming soon"
+		"traduction": "Wapiti"
 	},
 	{
 		"abr": "elkmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Elk",
-		"traduction": "Coming soon"
+		"traduction": "Viande de wapiti"
 	},
 	{
 		"abr": "empgrenades",
 		"price": 525,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP",
-		"traduction": "Coming soon"
+		"traduction": "Grenade EMP"
 	},
 	{
 		"abr": "empshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_EMP",
-		"traduction": "Coming soon"
+		"traduction": "Obus à impulsion électromagnétique"
 	},
 	{
 		"abr": "emu",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Emu",
-		"traduction": "Coming soon"
+		"traduction": "Emeu"
 	},
 	{
 		"abr": "emuegg(fert.)",
 		"price": 30,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized",
-		"traduction": "Coming soon"
+		"traduction": "Oeuf d'émeu (fécondé)"
 	},
 	{
 		"abr": "endtable",
 		"price": 106,
 		"category": "Furniture",
 		"defname": "EndTable",
-		"traduction": "Coming soon"
+		"traduction": "Table de nuit"
 	},
 	{
 		"abr": "erbot(disabled)",
@@ -1951,294 +1951,294 @@
 		"price": 5000,
 		"category": "Saber crystals",
 		"defname": "PJ_EralamCrystal",
-		"traduction": "Coming soon"
+		"traduction": "Cristal eralam (argent)"
 	},
 	{
 		"abr": "ewok",
 		"price": 2917,
 		"category": "Animal",
 		"defname": "StarWarsRaces_Ewok",
-		"traduction": "Coming soon"
+		"traduction": "Ewok"
 	},
 	{
 		"abr": "ewokhood",
 		"price": 56,
 		"category": "Headgear",
 		"defname": "StarWarsRaces_Ewok_Hood",
-		"traduction": "Coming soon"
+		"traduction": "Capuche d'ewok"
 	},
 	{
 		"abr": "ewokmeat",
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_StarWarsRaces_Ewok",
-		"traduction": "Coming soon"
+		"traduction": "Viande d'ewok"
 	},
 	{
 		"abr": "ewoktabard",
 		"price": 124,
 		"category": "Star Wars Races - Ewok",
 		"defname": "StarWarsRaces_Ewok_Parka",
-		"traduction": "Coming soon"
+		"traduction": "Tabard d'ewok"
 	},
 	{
 		"abr": "exoskeletonsuit",
 		"price": 7500,
 		"category": "Advanced bionics",
 		"defname": "ExoskeletonSuit",
-		"traduction": "Coming soon"
+		"traduction": "Comninaison exosquelette"
 	},
 	{
 		"abr": "experimentalvibrocell",
 		"price": 8333,
 		"category": "Vibroblade motors",
 		"defname": "PJ_XXCell",
-		"traduction": "Coming soon"
+		"traduction": "Vibro-céllule expérimentale"
 	},
 	{
 		"abr": "eyepatch",
 		"price": 108,
 		"category": "Basic prostheses",
 		"defname": "EyePatch",
-		"traduction": "Coming soon"
+		"traduction": "Cache-oeil"
 	},
 	{
 		"abr": "eyeball",
 		"price": 2500,
 		"category": "Natural",
 		"defname": "Eye",
-		"traduction": "Coming soon"
+		"traduction": "Oeil"
 	},
 	{
 		"abr": "fennecfox",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Fennec",
-		"traduction": "Coming soon"
+		"traduction": "Fennec"
 	},
 	{
 		"abr": "fermentingbarrel",
 		"price": 95,
 		"category": "Production",
 		"defname": "FermentingBarrel",
-		"traduction": "Coming soon"
+		"traduction": "Baril de fermentation"
 	},
 	{
 		"abr": "fig",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "Rawfig",
-		"traduction": "Coming soon"
+		"traduction": "Figue"
 	},
 	{
 		"abr": "finemeal",
 		"price": 33,
 		"category": "Meals",
 		"defname": "MealFine",
-		"traduction": "Coming soon"
+		"traduction": "Plat raffiné"
 	},
 	{
 		"abr": "firefoampopper",
 		"price": 300,
 		"category": "Misc",
 		"defname": "FirefoamPopper",
-		"traduction": "Coming soon"
+		"traduction": "Extincteur à mousse"
 	},
 	{
 		"abr": "firefoamshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam",
-		"traduction": "Coming soon"
+		"traduction": "Obus anti-incendie"
 	},
 	{
 		"abr": "firkranncrystal(silver)",
 		"price": 5000,
 		"category": "Saber crystals",
 		"defname": "PJ_FirkrannCrystal",
-		"traduction": "Coming soon"
+		"traduction": "Cristal firkrann (argent)"
 	},
 	{
 		"abr": "flakjacket",
 		"price": 483,
 		"category": "Apparel",
 		"defname": "Apparel_FlakJacket",
-		"traduction": "Coming soon"
+		"traduction": "Gilet pare-balles"
 	},
 	{
 		"abr": "flakpants",
 		"price": 375,
 		"category": "Apparel",
 		"defname": "Apparel_FlakPants",
-		"traduction": "Coming soon"
+		"traduction": "Pantalon renforcé"
 	},
 	{
 		"abr": "flakvest",
 		"price": 375,
 		"category": "Apparel",
 		"defname": "Apparel_FlakVest",
-		"traduction": "Coming soon"
+		"traduction": "Veste renforcée"
 	},
 	{
 		"abr": "flake",
 		"price": 23,
 		"category": "Drugs",
 		"defname": "Flake",
-		"traduction": "Coming soon"
+		"traduction": "Flake"
 	},
 	{
 		"abr": "flatscreentelevision",
 		"price": 1533,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision",
-		"traduction": "Coming soon"
+		"traduction": "Télévision à écran plat"
 	},
 	{
 		"abr": "foxfur",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Fox",
-		"traduction": "Coming soon"
+		"traduction": "Fourrure de renard"
 	},
 	{
 		"abr": "foxmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Fox_Fennec",
-		"traduction": "Coming soon"
+		"traduction": "Viande de renard"
 	},
 	{
 		"abr": "fraggrenades",
 		"price": 442,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag",
-		"traduction": "Coming soon"
+		"traduction": "Grenade à fragmentation"
 	},
 	{
 		"abr": "frog-dog",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Frog-dog",
-		"traduction": "Coming soon"
+		"traduction": "Grenouille-chien"
 	},
 	{
 		"abr": "frog-dogmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Frog-dog",
-		"traduction": "Coming soon"
+		"traduction": "Viande de Grenouille-chien"
 	},
 	{
 		"abr": "frog-dogskin",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "frog-dog_skin",
-		"traduction": "Coming soon"
+		"traduction": "Cuir de Grenouille-chien"
 	},
 	{
 		"abr": "fruitdrink",
 		"price": 12,
 		"category": "Sweets",
 		"defname": "Fruitdrink",
-		"traduction": "Coming soon"
+		"traduction": "jus de fruit"
 	},
 	{
 		"abr": "fueledglassworks",
 		"price": 304,
 		"category": "Production",
 		"defname": "FueledGlassworkTable",
-		"traduction": "Coming soon"
+		"traduction": "Etabli à verre à combustible"
 	},
 	{
 		"abr": "fueledsmithy",
 		"price": 333,
 		"category": "Production",
 		"defname": "FueledSmithy",
-		"traduction": "Coming soon"
+		"traduction": "Etabli de forgeron à combustible"
 	},
 	{
 		"abr": "fueledstove",
 		"price": 265,
 		"category": "Production",
 		"defname": "FueledStove",
-		"traduction": "Coming soon"
+		"traduction": "Cuisinière à bois"
 	},
 	{
 		"abr": "game-of-urboard",
 		"price": 153,
 		"category": "Furniture",
 		"defname": "GameOfUrBoard",
-		"traduction": "Coming soon"
+		"traduction": "Plateau de jeu de Ur"
 	},
 	{
 		"abr": "gardencoffee",
 		"price": 13,
 		"category": "Sweets",
 		"defname": "Coffee",
-		"traduction": "Coming soon"
+		"traduction": "Café du jardin"
 	},
 	{
 		"abr": "gardentea",
 		"price": 13,
 		"category": "Sweets",
 		"defname": "Cuptea",
-		"traduction": "Coming soon"
+		"traduction": "Thé du jardin"
 	},
 	{
 		"abr": "gazelle",
 		"price": 250,
 		"category": "Animal",
 		"defname": "Gazelle",
-		"traduction": "Coming soon"
+		"traduction": "Gazelle"
 	},
 	{
 		"abr": "gazellemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Gazelle",
-		"traduction": "Coming soon"
+		"traduction": "Viande de gazelle"
 	},
 	{
 		"abr": "gizka",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Gizka",
-		"traduction": "Coming soon"
+		"traduction": "Gizka"
 	},
 	{
 		"abr": "gizkaegg(fert.)",
 		"price": 10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGizkaFertilized",
-		"traduction": "Coming soon"
+		"traduction": "Oeuf de gizka (fécondé)"
 	},
 	{
 		"abr": "gizkaegg(unfert.)",
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGizkaUnfertilized",
-		"traduction": "Coming soon"
+		"traduction": "oeuf de gizka (non fécondé)"
 	},
 	{
 		"abr": "gizkameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Gizka",
-		"traduction": "Coming soon"
+		"traduction": "Viande de gizka"
 	},
 	{
 		"abr": "gizkaskin",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "gizka_skin",
-		"traduction": "Coming soon"
+		"traduction": "Cuir de gizka"
 	},
 	{
 		"abr": "gladius",
 		"price": 215,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Gladius",
-		"traduction": "Coming soon"
+		"traduction": "Glaive"
 	},
 	{
 		"abr": "glass",
