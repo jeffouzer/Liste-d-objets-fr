@@ -82,196 +82,196 @@
 		"price": 5000,
 		"category": "Saber crystals",
 		"defname": "PJ_AdeganCrystal",
-		"traduction": "Coming soon"
+		"traduction": "Cristal Adegan"
 	},
 	{
 		"abr": "adrenalineribreplacement",
 		"price": 1333,
 		"category": "Bionics",
 		"defname": "AdrenalineRib",
-		"traduction": "Coming soon"
+		"traduction": "Côte (adrénaline)"
 	},
 	{
 		"abr": "advancedbionicarm",
 		"price": 8333,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicArm",
-		"traduction": "Coming soon"
+		"traduction": "Bras bionique avancé"
 	},
 	{
 		"abr": "advancedbionicear",
 		"price": 4583,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicEar",
-		"traduction": "Coming soon"
+		"traduction": "Oreille bionique avancée"
 	},
 	{
 		"abr": "advancedbioniceye",
 		"price": 5000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicEye",
-		"traduction": "Coming soon"
+		"traduction": "Oeil bionique avancé
 	},
 	{
 		"abr": "advancedbionicfoot",
 		"price": 4583,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicFoot",
-		"traduction": "Coming soon"
+		"traduction": "Pied bionique avancé"
 	},
 	{
 		"abr": "advancedbionichand",
 		"price": 5000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicHand",
-		"traduction": "Coming soon"
+		"traduction": "Main bionique avancée"
 	},
 	{
 		"abr": "advancedbionicjaw",
 		"price": 5000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicJaw",
-		"traduction": "Coming soon"
+		"traduction": "Mâchoire bionique avancée"
 	},
 	{
 		"abr": "advancedbionicleg",
 		"price": 8333,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicLeg",
-		"traduction": "Coming soon"
+		"traduction": "Jambe bionique avancée"
 	},
 	{
 		"abr": "advancedbionicspine",
 		"price": 8333,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicSpine",
-		"traduction": "Coming soon"
+		"traduction": "Colonne vertébrale bionique avancée"
 	},
 	{
 		"abr": "advancedcomponent",
 		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer",
-		"traduction": "Coming soon"
+		"traduction": "Composant avancé"
 	},
 	{
 		"abr": "advancedfabricationbench",
 		"price": 758,
 		"category": "Production",
 		"defname": "Table_PJ_Bench",
-		"traduction": "Coming soon"
+		"traduction": "Etabli de fabrication avancé"
 	},
 	{
 		"abr": "advancedhelmet",
 		"price": 442,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet",
-		"traduction": "Coming soon"
+		"traduction": "Casque avancé"
 	},
 	{
 		"abr": "advancedpowerarm",
 		"price": 16667,
 		"category": "Advanced bionics",
 		"defname": "AdvancedPowerArm",
-		"traduction": "Coming soon"
+		"traduction": "Bras puissant avancé"
 	},
 	{
 		"abr": "agavefruit",
 		"price": 2,
 		"category": "Fruits",
 		"defname": "RawAgave",
-		"traduction": "Coming soon"
+		"traduction": "Fruit d'agave"
 	},
 	{
 		"abr": "aichip",
 		"price": 7500,
 		"category": "Synthetic organs",
 		"defname": "AIChip",
-		"traduction": "Coming soon"
+		"traduction": "Puce IA"
 	},
 	{
 		"abr": "aimanager",
 		"price": 7833,
 		"category": "Production",
 		"defname": "FM_AIManager",
-		"traduction": "Coming soon"
+		"traduction": "Gestion IA"
 	},
 	{
 		"abr": "aipersonacore",
 		"price": 6667,
 		"category": "Items",
 		"defname": "AIPersonaCore",
-		"traduction": "Coming soon"
+		"traduction": "Noyau IA de personnalité"
 	},
 	{
 		"abr": "alliancepilothelmet(blue)",
 		"price": 79,
 		"category": "Headgear",
 		"defname": "PJ_RebPilot_H_Blue",
-		"traduction": "Coming soon"
+		"traduction": "Casque de l'Alliance (bleu)"
 	},
 	{
 		"abr": "alliancepilothelmet(red)",
 		"price": 163,
 		"category": "Headgear",
 		"defname": "PJ_RebPilot_H_Red",
-		"traduction": "Coming soon"
+		"traduction": "Casque de l'Alliance (rouge)"
 	},
 	{
 		"abr": "alpaca",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Alpaca",
-		"traduction": "Coming soon"
+		"traduction": "Alpaga"
 	},
 	{
 		"abr": "alpacameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alpaca",
-		"traduction": "Coming soon"
+		"traduction": "Viande d'alpaga"
 	},
 	{
 		"abr": "alpacawool",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolAlpaca",
-		"traduction": "Coming soon"
+		"traduction": "Laine d'alpaga"
 	},
 	{
 		"abr": "alphabeaver",
 		"price": 417,
 		"category": "Animal",
 		"defname": "Alphabeaver",
-		"traduction": "Coming soon"
+		"traduction": "Alphacastor"
 	},
 	{
 		"abr": "alphabeavermeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver",
-		"traduction": "Coming soon"
+		"traduction": "Viande d'alphacastor"
 	},
 	{
 		"abr": "ambrosia",
 		"price": 25,
 		"category": "Drugs",
 		"defname": "Ambrosia",
-		"traduction": "Coming soon"
+		"traduction": "Ambroisie"
 	},
 	{
 		"abr": "animalbed",
 		"price": 136,
 		"category": "Furniture",
 		"defname": "AnimalBed",
-		"traduction": "Coming soon"
+		"traduction": "Lit pour animaux"
 	},
 	{
 		"abr": "animalprostheticstable",
 		"price": 367,
 		"category": "Production",
 		"defname": "TableAnimalProsthetics",
-		"traduction": "Coming soon"
+		"traduction": "Etabli de prothèse animale"
 	},
 	{
 		"abr": "animalsleepingbox",
