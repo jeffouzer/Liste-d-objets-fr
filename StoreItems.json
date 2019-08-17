@@ -3315,7 +3315,7 @@
 		"abr": "mashgon",
 		"price": 83,
 		"category": "Animal",
-		"defname": "Mashgon"
+		"defname": "Mashgon",
 		"traduction": "Coming soon"
 	},
 	{
@@ -4332,7 +4332,7 @@
 		"category": "Production",
 		"defname": "TableSculpting",
 		"traduction": "Coming soon"
-	
+	},
 	{
 		"abr": "scytherblade",
 		"price": 2500,
