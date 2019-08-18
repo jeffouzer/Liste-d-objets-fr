@@ -4,341 +4,409 @@
 		"abr": "tornado",
 		"price": 800,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "vomitrain",
 		"price": 650,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "drythunderstorm",
 		"price": 450,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "snowgentle",
 		"price": 350,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "snowhard",
 		"price": 450,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "fog",
 		"price": 300,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "heatwave",
 		"price": 750,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "flashstorm",
 		"price": 400,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "solarflare",
 		"price": 500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "toxicfallout",
 		"price": 6500,
 		"karmatype": "Doom"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "refugeechased",
 		"price": 650,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "transportpodcrash",
 		"price": 600,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "maninblack",
 		"price": 350,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "psychicdrone",
 		"price": 400,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "psychicsoothe",
 		"price": 250,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "herdmigration",
 		"price": 200,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "farmanimals",
 		"price": 400,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "wildman",
 		"price": 300,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "shippartpoison",
 		"price": 1900,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "predators",
 		"price": 2500,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "randomdisease",
 		"price": 1000,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "reviveanypawn",
 		"price": 2000,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "pawn",
 		"price": 1500,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "trait",
 		"price": 3500,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "removetrait",
 		"price": 3500,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "berescued",
 		"price": 900,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "torytalkervote",
 		"price": 750,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	},
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+		"Traduction": "Coming soon"
 	}
 	],
 	"total": 68
