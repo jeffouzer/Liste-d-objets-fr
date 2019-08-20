@@ -4,379 +4,379 @@
 		"abr": "tornado",
 		"price": 800,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Tornade"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Tornades"
 	},
 	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Eclaircir la météo"
 	},
 	{
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Pluie"
 	},
 	{
 		"abr": "vomitrain",
 		"price": 650,
 		"karmatype": "Neutral",
-		"Traduction": "Coming soon"
+		"Traduction": "Pluie de vomit"
 	},
 	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Pluie brumeuse"
 	},
 	{
 		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Tempête pluvieuse"
 	},
 	{
 		"abr": "drythunderstorm",
 		"price": 450,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Tempête sèche"
 	},
 	{
 		"abr": "snowgentle",
 		"price": 350,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Neige douce"
 	},
 	{
 		"abr": "snowhard",
 		"price": 450,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Forte neige"
 	},
 	{
 		"abr": "fog",
 		"price": 300,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Brouillard"
 	},
 	{
 		"abr": "heatwave",
 		"price": 750,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Canicule"
 	},
 	{
 		"abr": "flashstorm",
 		"price": 400,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Tempête d'éclairs"
 	},
 	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Coup de froid"
 	},
 	{
 		"abr": "solarflare",
 		"price": 500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Eruption solaire"
 	},
 	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Court circuit"
 	},
 	{
 		"abr": "toxicfallout",
 		"price": 6500,
 		"karmatype": "Doom",
-		"traduction": "Coming soon"
+		"traduction": "Retombées toxiques"
 	},
 	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom",
-		"traduction": "Coming soon"
+		"traduction": "Hiver volcanique"
 	},
 	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Eclipse"
 	},
 	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Aurore boréale"
 	},
 	{
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Rouille"
 	},
 	{
 		"abr": "refugeechased",
 		"price": 650,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Réfugié pourchassé"
 	},
 	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Animal auto-dompté"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Crash d'une nacelle de ressources"
 	},
 	{
 		"abr": "transportpodcrash",
 		"price": 600,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Crash d'une nacelle de transport"
 	},
 	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Caravane de marchand"
 	},
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Marchand orbital"
 	},
 	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Météore"
 	},
 	{
 		"abr": "maninblack",
 		"price": 350,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Homme en noir"
 	},
 	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Animal fou"
 	},
 	{
 		"abr": "psychicdrone",
 		"price": 400,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Drone psychique"
 	},
 	{
 		"abr": "psychicsoothe",
 		"price": 250,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Vague psychique apaisante"
 	},
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Pousse d'ambroisie"
 	},
 	{
 		"abr": "herdmigration",
 		"price": 200,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Troupeau migratoire"
 	},
 	{
 		"abr": "farmanimals",
 		"price": 400,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Animaux fermiers"
 	},
 	{
 		"abr": "wildman",
 		"price": 300,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Homme sauvage"
 	},
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Rare thrumbos"
 	},
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Crash d'un morceau de vaisseau"
 	},
 	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Groupe de voyageurs"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Groupe de visiteurs"
 	},
 	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Augmentation de compétence"
 	},
 	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Fête"
 	},
 	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Alphacastors"
 	},
 	{
 		"abr": "shippartpoison",
 		"price": 1900,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Vaisseau empoisonné"
 	},
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Vaisseau psychique"
 	},
 	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Aide militaire"
 	},
 	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Raid"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Raid aérien"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Raid perce-murs"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Siège"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Raid de méchanoides"
 	},
 	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Infestation"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Troupeau d'animaux enragés"
 	},
 	{
 		"abr": "predators",
 		"price": 2500,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Prédateurs"
 	},
 	{
 		"abr": "randomdisease",
 		"price": 1000,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "Maladie aléatoire"
 	},
 	{
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad",
-		"traduction": "Coming soon"
+		"traduction": "maladie"
 	},
 	{
 		"abr": "reviveanypawn",
 		"price": 2000,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "résurrection d'un colon au hasard"
 	},
 	{
 		"abr": "pawn",
 		"price": 1500,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Colon"
 	},
 	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "augmentation d'une compétence"
 	},
 	{
 		"abr": "trait",
 		"price": 3500,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "ajouter trait"
 	},
 	{
 		"abr": "removetrait",
 		"price": 3500,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "supprimer un trait"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Changement de genre"
 	},
 	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good",
-		"traduction": "Coming soon"
+		"traduction": "Prisonnier"
 	},
 	{
 		"abr": "visitcolony",
@@ -400,13 +400,13 @@
 		"abr": "torytalkervote",
 		"price": 750,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Vote"
 	},
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral",
-		"traduction": "Coming soon"
+		"traduction": "Vote hodl"
 	}
 	],
 	"total": 68
